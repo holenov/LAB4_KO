@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Lab4_KO\bin\Debug\net8.0\Lab4_KO.exe
+C:\Users\Acer\source\repos\Lab4_KO\bin\Debug\net8.0\Lab4_KO.deps.json
+C:\Users\Acer\source\repos\Lab4_KO\bin\Debug\net8.0\Lab4_KO.runtimeconfig.json
+C:\Users\Acer\source\repos\Lab4_KO\bin\Debug\net8.0\Lab4_KO.dll
+C:\Users\Acer\source\repos\Lab4_KO\bin\Debug\net8.0\Lab4_KO.pdb
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.dll
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\refint\Lab4_KO.dll
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.pdb
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\Lab4_KO.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Lab4_KO\obj\Debug\net8.0\ref\Lab4_KO.dll
